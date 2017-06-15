@@ -22,6 +22,10 @@ li a {
     text-decoration: none;
     color:black;
 }
+#google_search_area{
+	padding: 220px ;
+	border: 1px solid black
+}
 #googe_image{
 	border: 1px solid black
 
