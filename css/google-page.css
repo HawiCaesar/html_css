@@ -1,33 +1,66 @@
 header{
-	border: 1px solid black;
 	padding-bottom:50px;
-}
-#topmenu{
-    margin: 10px;
 }
 
 ul{
 	list-style-type: none;
 }
 
-li {
-    float: right;
+li{
     padding: 0 12px 0 12px;
+  
 }
 
-li a {
+.left-list{
+	float: left;
+}
+.right-list{
+	float:right;
+}
+
+a {
     display: block;
     text-align: center;
     padding: 10px 10px;
     text-decoration: none;
-    color:black;
+    color:#757272;
 }
-#googe_image{
-	border: 1px solid black
 
+#google-search-area{
+	padding: 150px 150px 210px 150px;
 }
 
 img{
 	display: block;
     margin: 0 auto;
+}
+button{
+	padding: 10px;
+	color:#757272;
+	font-weight: bold;
+	background-color: #f2f2f2;
+	border: #f2f2f2;
+}
+button:hover{
+	color:#000;
+}
+input{
+	padding: 10px;
+	width:55%;
+}
+#search-area-buttons{
+	text-align: center;
+}
+#search-field{
+	text-align: center;
+	padding:10px;
+}
+
+#bottom-left{
+	float: left;
+    padding: 0 12px 0 12px;
+}
+#bottom-right{
+	float: right;
+    padding: 0 12px 0 12px;
 }
