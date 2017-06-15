@@ -1,0 +1,33 @@
+header{
+	border: 1px solid black;
+	padding-bottom:50px;
+}
+#topmenu{
+    margin: 10px;
+}
+
+ul{
+	list-style-type: none;
+}
+
+li {
+    float: right;
+    padding: 0 12px 0 12px;
+}
+
+li a {
+    display: block;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    color:black;
+}
+#googe_image{
+	border: 1px solid black
+
+}
+
+img{
+	display: block;
+    margin: 0 auto;
+}
