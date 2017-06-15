@@ -23,7 +23,7 @@ li a {
     color:black;
 }
 #google_search_area{
-	padding: 220px ;
+	padding: 150px 150px 250px 150px;
 	border: 1px solid black
 }
 #googe_image{
@@ -34,4 +34,22 @@ li a {
 img{
 	display: block;
     margin: 0 auto;
+}
+button{
+	padding: 10px;
+	color:#757272;
+	font-weight: bold;
+	background-color: #f2f2f2;
+	border: #f2f2f2;
+}
+input{
+	padding: 10px;
+	width:55%;
+}
+#search_area_buttons{
+	text-align: center;
+}
+#search_field{
+	text-align: center;
+	padding:10px;
 }
